@@ -15,7 +15,7 @@ _SuperTML: Two-Dimensional Word Embedding for the Precognition on Structured Tab
 
 _Abstrack_: Projects tabular data to images creating 2-dimentional embenddings. Then, with the use of a pretrained model, it is capable of performing regression and classification tasks.
 
-•   [Code](src/)   •   [Paper](https://arxiv.org/pdf/1903.06246.pdf)   •   [Blog-Post (soon)]()
+•   [Code](src/)   •   [Paper](https://arxiv.org/pdf/1903.06246.pdf)   •   [Blog-Post](https://towardsdatascience.com/fast-and-accurate-learning-with-transfer-learning-on-tabular-data-how-and-why-dfe4e752bb2d)
 
 
 ## Results
